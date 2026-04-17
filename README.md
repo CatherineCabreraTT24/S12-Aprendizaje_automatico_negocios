@@ -2,6 +2,9 @@
 
 Serie de 4 webinars diseñados para profundizar sobre el aprendizaje supervisado
 
+
+
+
 ---
 
 ## 📚 Contenido de la serie
